@@ -1,0 +1,6 @@
+{
+    "autoload": {
+        "classmap": ["../a/", "src/"],
+        "exclude-from-classmap": ["/**/unwanted-dir", "/**/other-unwanted-dir"]
+    }
+}
